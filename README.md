@@ -57,11 +57,8 @@ Write an assembly program to calculate the sum of products 1*2 + 2*3 + 3*4 + 4*5
 Write a program that continuously reads numbers from the keyboard until the number zero is given. When zero is entered, print the number of even and odd numbers given up to that point.
 
 ### Exercise 16: [Calculate the sum of cubes from 1 to 10]
-Write a program to calculate the
+Write a program to calculate the $\sum_{i=1}^{10} i^{3}$
 
-\[
-\sum_{i=1}^{10} i^{3}
-\]
 
 ## How to Use
 # Running MIPS Assembly Programs with SPIM on Linux
