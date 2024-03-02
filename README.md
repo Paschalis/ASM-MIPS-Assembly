@@ -83,3 +83,6 @@ To run a MIPS assembly program with SPIM on the terminal in Linux, follow these 
 ## Author
 Paschalis Moschogiannis (Contact: pmoschogiannis@uth.gr)
 
+## License
+
+This project is licensed under the [GNU General Public License Version 3 (GPLv3)](LICENSE).
